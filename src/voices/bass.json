@@ -1,3 +1,10 @@
 [
-
+    "||1",
+    "||2",
+    "||3",
+    "| 4", "d 2b., fs, g, d", "r 2b",
+    "| 5", "d 2b., fs, g, d", "r", "fs 1, fs 1",
+    "| 6", "g, d", "r", "fs 1, fs 1, g, d", "r", "fs",
+    "| 7", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 1, "sustain": true }, { "name": "a", "dynamic": 1 }, "a", { "name": "d 2b", "sustain": true }, "r 2b",
+    "| 8"
 ]

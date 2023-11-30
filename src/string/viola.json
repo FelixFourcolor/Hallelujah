@@ -1,3 +1,10 @@
 [
-
+    "| 1", "fs, g, a, d, d^, d", "R 2b",
+    "| 2", "a 2b., a, g", { "name": "a", "sustain": true }, "R", "d",
+    "| 3", "g, a, a, e, fs 2b", "R 2b",
+    "| 4, R 4b", "d 2b., d",
+    "| 5", { "name": "a_, fs_", "transpose": 12 }, "R 2b", "d 2b., d",
+    "| 6", "d, d 1, d 1, d, d", "R", "d 1, d 1, d, d",
+    "| 7, R 2b.", "a, a, a, e, a",
+    "| 8"
 ]
