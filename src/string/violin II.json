@@ -1,6 +1,6 @@
 [
     "| 1", "a 2b., fs^, g^, fs^", "R 2b",
-    "| 2", "fs^ 2b, a, d^, cs^", { "name": "d^", "sustain": true }, "R", "a",
+    "| 2", "fs^ 2b, a, d^, cs^", { "name": "d^ 2b", "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "a",
     "| 3", "cs^, d^ 2b, cs^, d^, fs, g, e",
     "| 4", "fs 2b", "R 2b", "d 2b., fs",
     "| 5", "d, a_", "R 2b", "d^ 2b., d^",
