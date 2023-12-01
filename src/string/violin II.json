@@ -1,10 +1,14 @@
 [
-    "| 1", "a 2b., fs^, g^, fs^", "R 2b",
-    "| 2", "fs^ 2b, a, d^, cs^", { "name": "d^ 2b", "sustainDynamic": 1 }, "a",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 1", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "fs^, g^", { "name": "fs^", "dynamic": 2 }, "R 2b",
+    "| 2", "fs^ 2b, a, d^, cs^", { "name": "d^ 2b", "dynamic": 2, "sustain": -1, "sustainDynamic": 1 }, { "name": "a", "sustainDynamic": 0 },
+    { "sustain": null, "sustainDynamic": null },
     "| 3", "cs^, d^ 2b, cs^, d^, fs, g, e",
-    "| 4", "fs 2b", "R 2b", "d 2b., fs",
-    "| 5", "d, a_", "R 2b", "d^ 2b., d^",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 4", "fs 2b", "R 2b", { "name": "d 2b.", "sustain": -1, "sustainDynamic": 2 }, "fs",
+    "| 5", "d", { "name": "a_", "dynamic": 2 }, "R 2b", { "name": "d^ 2b.", "sustain": -1, "sustainDynamic": 2 }, "d^",
     "| 6", "b, a 1, a 1, b, a", "R", "fs^ 1, fs^ 1, g^, d",
+    { "sustain": null, "sustainDynamic": null },
     "| 7, R 2b.", { "name": "cs^, d^", "dynamic": 2 }, "d^, cs^, d^",
     "| 8"
 ]

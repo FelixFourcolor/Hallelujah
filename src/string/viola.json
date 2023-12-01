@@ -1,10 +1,14 @@
 [
-    "| 1", "fs, g, a, d, d^, d", "R 2b",
-    "| 2", "a 2b., a, g", { "name": "a 2b", "sustainDynamic": 1 }, "d",
-    "| 3", "g, a, a, e, fs 2b", "R 2b",
-    "| 4, R 4b", "d 2b., d",
-    "| 5", { "name": "a_, fs_", "transpose": 12 }, "R 2b", "d 2b., d",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 1", { "name": "fs, g, a", "sustainDynamic": 0 }, "d, d^", { "name": "d", "dynamic": 2 }, "R 2b",
+    "| 2", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "a 2b", "dynamic": 2, "sustain": -1, "sustainDynamic": 1 }, { "name": "d", "sustainDynamic": 0 },
+    { "sustain": null, "sustainDynamic": null },
+    "| 3", "g, a, a, e", { "name": "fs 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 4, R 4b", { "name": "d 2b.", "sustain": -1, "sustainDynamic": 2 }, "d",
+    "| 5", { "name": "a_", "transpose": 12 }, { "name": "fs_", "transpose": 12, "dynamic": 2 }, "R 2b", { "name": "d 2b.", "sustain": -1, "sustainDynamic": 2 }, "d",
     "| 6", "d, d 1, d 1, d, d", "R", "d 1, d 1, d, d",
+    { "sustain": null, "sustainDynamic": null },
     "| 7, R 2b.", { "name": "a, a", "dynamic": 2 }, "a, e, a",
     "| 8"
 ]
