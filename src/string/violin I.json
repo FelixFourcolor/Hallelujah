@@ -5,6 +5,6 @@
     "| 4", "d 2b", "R 2b", "d 2b., a_",
     "| 5", { "name": "fs_, d_", "transpose": 12 }, "R 2b", "d^ 2b., a",
     "| 6", "d, fs 1, fs 1, g, fs", "R", "a 1, a 1, b, a",
-    "| 7, R 2b.", "e, fs, a, g, fs",
+    "| 7, R 2b.", { "name": "e, fs", "dynamic": 2 }, "a, g, fs",
     "| 8"
 ]
