@@ -1,7 +1,7 @@
 [
     "| 1", "d, e, fs, d, g, d, fs, a",
     "| 2", "d, e, fs, d, e", { "name": "d", "sustain": true }, "R", "fs",
-    "| 3", "e, d, a, a_, d 2b", "R 2b",
+    "| 3", "e, d, a, a_", { "name": "d 2b", "sustain": true }, "R 2b",
     "| 4", "d, d, e, fs, g, d", "R 2b",
     "| 5", "d, d, e, fs, g, d", "R", "fs 1, fs 1",
     "| 6", "g, d", "R", "fs 1, fs 1, g, d", "R", "fs",
