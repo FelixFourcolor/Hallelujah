@@ -5,6 +5,6 @@
     "| 4", "d^ 2b., a, b, a", "r 2b",
     "| 5", "d^ 2b., a, b, a", "r", "d^ 1, d^ 1",
     "| 6", "d^, d^", "r", "d^ 1, d^ 1, d^, d^", "r", "d^",
-    "| 7", { "name": "cs^", "sustain": true }, { "name": "d^ 2b", "dynamic": 2 }, "cs^", { "name": "d^ 2b", "sustain": true }, "r 2b",
+    "| 7", { "name": "cs^", "sustain": true }, { "name": "d^ 2b, cs^", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d^ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
     "| 8"
 ]
