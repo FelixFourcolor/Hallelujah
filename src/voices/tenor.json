@@ -5,6 +5,6 @@
     "| 4", "fs^ 2b., d^, d^, d^", "R 2b",
     "| 5", "fs^ 2b., fs^, d^, d^", "R", "d^ 1, d^ 1",
     "| 6", "g^, fs^", "R", "d^ 1, d^ 1, g^, fs^", "R", "d^",
-    "| 7", { "name": "e^", "sustain": true }, { "name": "a 2b, a", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    "| 7", { "name": "e^", "sustain": true }, { "name": "a 2b, a", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
     "| 8"
 ]
