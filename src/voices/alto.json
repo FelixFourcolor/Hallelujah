@@ -2,7 +2,7 @@
     "||1",
     "||2",
     "||3",
-    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] },
     "| 4", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "fs", "dynamic": 2 }, "R 2b",
     "| 5", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "fs", "dynamic": 2 }, "R", "a 1, a 1",
     "| 6", "b", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1, b", { "name": "a", "dynamic": 2 }, "R", "a",
