@@ -2,9 +2,9 @@
     "||1",
     "||2",
     "||3",
-    "| 4", "d 2b., fs, g, d", "r 2b",
-    "| 5", "d 2b., fs, g, d", "r", "fs 1, fs 1",
-    "| 6", "g, d", "r", "fs 1, fs 1, g, d", "r", "fs",
+    "| 4", "d 2b., fs, g, d", "R 2b",
+    "| 5", "d 2b., fs, g, d", "R", "fs 1, fs 1",
+    "| 6", "g, d", "R", "fs 1, fs 1, g, d", "R", "fs",
     "| 7", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "a, a", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
     "| 8"
 ]
