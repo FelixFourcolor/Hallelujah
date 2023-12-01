@@ -2,9 +2,10 @@
     "||1",
     "||2",
     "||3",
-    "| 4", "a 2b., a, g, fs", "R 2b",
-    "| 5", "a 2b., a, g, fs", "R", "a 1, a 1",
-    "| 6", "b, a", "R", "a 1, a 1, b, a", "R", "a",
-    "| 7", { "name": "g", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e, e", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "fs 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 4", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "fs", "dynamic": 2 }, "R 2b",
+    "| 5", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "fs", "dynamic": 2 }, "R", "a 1, a 1",
+    "| 6", "b", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1, b", { "name": "a", "dynamic": 2 }, "R", "a",
+    "| 7", { "name": "g", "sustainDynamic": 2 }, { "name": "fs", "dynamic": 2, "sustainDynamic": 2 }, { "name": "e, e", "dynamic": 2 }, { "name": "fs 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
     "| 8"
 ]
