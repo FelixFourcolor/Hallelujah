@@ -1,6 +1,6 @@
 [
     "| 1", "fs, g, a, d, d^, d", "R 2b",
-    "| 2", "a 2b., a, g", { "name": "a 2b", "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "d",
+    "| 2", "a 2b., a, g", { "name": "a 2b", "sustainDynamic": 1 }, "d",
     "| 3", "g, a, a, e, fs 2b", "R 2b",
     "| 4, R 4b", "d 2b., d",
     "| 5", { "name": "a_, fs_", "transpose": 12 }, "R 2b", "d 2b., d",
