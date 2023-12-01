@@ -2,6 +2,8 @@
     "time": 16,
     "beat": 2,
     "transpose": -3,
+    "dynamic": 3,
+    "sustainDynamic": 2,
     "sustain": -1,
     "voices": [
         { "notes": "string/violin I.json", "instrument": "bell" },
