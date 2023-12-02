@@ -7,5 +7,9 @@
     "| 5", { "name": "fs^ 2b.", "sustain": -1, "sustainDynamic": 2 }, "fs^, d^", { "name": "d^", "dynamic": 2 }, "R", "d^ 1, d^ 1",
     "| 6", "g^", { "name": "fs^", "dynamic": 2 }, "R", "d^ 1, d^ 1", { "name": "g^" }, { "name": "fs^", "dynamic": 2 }, "R", "d^",
     "| 7", { "name": "e^", "sustainDynamic": 2 }, { "name": "a 2b, a", "dynamic": 2 }, { "name": "a 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
-    "| 8"
+    "| 8", { "name": "cs^ 2b.", "sustain": -1, "sustainDynamic": 2 }, "e^, d^", { "name": "cs^", "dynamic": 2 }, "R 2b",
+    "| 9", { "name": "cs^ 2b.", "sustain": -1, "sustainDynamic": 2 }, "e^, d^", { "name": "a", "dynamic": 2 }, "R", "e^ 1, e^ 1",
+    "| 10", "d^", { "name": "cs^", "dynamic": 2 }, "R", "e^ 1, e^ 1, d^", { "name": "cs^", "dynamic": 2 }, "R", "e^",
+    "| 11", { "name": "e^", "sustainDynamic": 2 }, { "name": "e^", "dynamic": 2, "sustainDynamic": 2 }, { "name": "fs^, d^", "dynamic": 2 }, { "name": "e^ 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    "| 12"
 ]

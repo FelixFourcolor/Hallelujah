@@ -10,5 +10,10 @@
     "| 6", "d, fs 1, fs 1, g, fs", "R", "a 1, a 1, b, a",
     { "sustain": null, "sustainDynamic": null },
     "| 7, R 2b.", { "name": "e, fs", "dynamic": 2 }, "a, g, fs",
-    "| 8"
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] },
+    "| 8", "e 2b", "R 2b", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "e",
+    "| 9", "cs 2b", "R 2b.", "e 1, e 1, fs, e",
+    "| 10, R", "cs^ 1, cs^ 1, d^, cs^", "R", "cs^ 1, cs^ 1, d^, cs^",
+    "| 11", { "name": "fs, a 2b, gs, a", "sustain": null, "sustainDynamic": null }, "e 1, e 1, fs, e",
+    "| 12"
 ]

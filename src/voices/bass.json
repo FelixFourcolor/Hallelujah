@@ -7,5 +7,9 @@
     "| 5", { "name": "d 2b.", "sustain": -1, "sustainDynamic": 2 }, "fs, g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1",
     "| 6", "g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R", "fs",
     "| 7", { "name": "e", "sustainDynamic": 2 }, { "name": "d", "dynamic": 2, "sustainDynamic": 2 }, { "name": "a, a", "dynamic": 2 }, { "name": "d 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
-    "| 8"
+    "| 8", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "cs^, d^", { "name": "a", "dynamic": 2 }, "R 2b",
+    "| 9", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "cs^, d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",
+    "| 10", "d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "a", "dynamic": 2 }, "R", "cs^",
+    "| 11", { "name": "d^", "sustainDynamic": 2 }, { "name": "cs^, b 2b", "dynamic": 2 }, { "name": "a 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    "| 12"
 ]

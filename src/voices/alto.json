@@ -7,5 +7,9 @@
     "| 5", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, g", { "name": "fs", "dynamic": 2 }, "R", "a 1, a 1",
     "| 6", "b", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1, b", { "name": "a", "dynamic": 2 }, "R", "a",
     "| 7", { "name": "g", "sustainDynamic": 2 }, { "name": "fs", "dynamic": 2, "sustainDynamic": 2 }, { "name": "e, e", "dynamic": 2 }, { "name": "fs 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
-    "| 8"
+    "| 8", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, a", { "name": "a", "dynamic": 2 }, "R 2b",
+    "| 9", { "name": "a 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, a", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1",
+    "| 10", "a", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1, a", { "name": "a", "dynamic": 2 }, "R", "a",
+    "| 11", "a 2b.", { "name": "gs", "dynamic": 2 }, { "name": "a 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
+    "| 12"
 ]
