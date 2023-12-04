@@ -10,5 +10,12 @@
     "| 9", "a 2b., cs^, d^, a", "R", "cs^ 1, cs^ 1",
     "| 10", "d^, a", "R", "cs^ 1, cs^ 1, d^, a", "r", "cs^",
     "| 11", "d^, cs^, b 2b, a 2b", "R 2b",
-    "| 12"
+    { "dynamic": 1, "sustainDynamic": 1 },
+    "| 12", "a 4b, b 2b, cs^ 2b",
+    "| 13", "d^, d, d^ 4b, cs^ 2b",
+    "| 14", "b 4b", { "name": "a 2b", "sustain": true }, "R", { "dynamic": null }, "cs^ 1, cs^ 1",
+    { "sustainDynamic": null },
+    "| 15", "d^, a 2b", "cs^ 1, cs^ 1, d^, a 2b", "cs^ 1, cs^ 1",
+    "| 16", "d^, a 2b", "cs^ 1, cs^ 1, d^, a 2b", "R",
+    "| 17"
 ]

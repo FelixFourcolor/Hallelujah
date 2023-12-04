@@ -15,5 +15,12 @@
     "| 9", "e 2b", "R 2b.", "a 1, a 1, a, a",
     "| 10, R", "a 1, a 1, a, a", "R", "a 1, a 1, a, a",
     "| 11", { "name": "d^, a, b 2b, e", "sustain": null, "sustainDynamic": null }, "a 1, a 1, a, a",
-    "| 12"
+    { "dynamic": 1, "sustain": null, "sustainDynamic": 1 },
+    "| 12", "a 4b, b 2b, cs^ 2b",
+    "| 13", "d^, d, d^ 4b, cs^ 2b",
+    "| 14", "b 4b", { "name": "a 2b", "sustain": true }, "R", { "dynamic": null }, "a 1, a 1",
+    { "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "| 15", "a, a 2b", "a 1, a 1, a, a 2b", "a 1, a 1",
+    "| 16", "a, a 1, a 1, a, cs^ 1, cs^ 1, a, a 2b", "R",
+    "| 17"
 ]

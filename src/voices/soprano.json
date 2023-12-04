@@ -11,5 +11,12 @@
     "| 9", { "name": "e^ 2b.", "sustain": -1, "sustainDynamic": 2 }, "a, fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1",
     "| 10", "fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1, fs^", { "name": "e^", "dynamic": 2 }, "R", "e^",
     "| 11", { "name": "fs^", "sustainDynamic": 2 }, { "name": "e^, d^ 2b", "dynamic": 2 }, { "name": "cs^ 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R 2b",
-    "| 12"
+    { "sustain": null, "sustainDynamic": null },
+    "| 12", "a 4b, b 2b, cs^ 2b",
+    "| 13", "d^, d, d^ 2b., d^", { "name": "cs^ 2b", "dynamic": 2 },
+    "| 14", "b 4b", { "name": "a 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R", "e^ 1, e^ 1",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 15", "d^", { "name": "cs^", "dynamic": 2 }, "R", "e^ 1, e^ 1, d^", { "name": "cs^", "dynamic": 2 }, "R", "e^ 1, e^ 1",
+    "| 16", "fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1, fs^", { "name": "e^", "dynamic": 2 }, "R 2b",
+    "| 17"
 ]
