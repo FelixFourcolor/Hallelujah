@@ -15,7 +15,7 @@
     "| 9", "cs 2b", "R 2b.", "e 1, e 1, fs, e",
     "| 10, R", "cs^ 1, cs^ 1, d^, cs^", "R", "cs^ 1, cs^ 1, d^, cs^",
     "| 11", { "name": "fs, a 2b, gs, a", "sustain": null, "sustainDynamic": null }, "e 1, e 1, fs, e",
-    { "dynamic": 1, "sustain": null, "sustainDynamic": 1 },
+    { "dynamic": 2, "sustain": null, "sustainDynamic": 1 },
     "| 12", "a_ 4b, b_ 2b, cs 2b",
     "| 13", "d", { "name": "d_", "transpose": 12 }, "d 4b, cs 2b",
     "| 14", "b_ 4b", { "name": "a_ 2b", "sustain": true }, "R", { "dynamic": null }, "a 1, a 1",
