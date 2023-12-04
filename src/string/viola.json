@@ -22,5 +22,12 @@
     { "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 15", "a, a 2b", "a 1, a 1, a, a 2b", "a 1, a 1",
     "| 16", "a, a 1, a 1, a, cs^ 1, cs^ 1, a, a 2b", "R",
-    "| 17"
+    { "dynamic": 1, "sustain": null, "sustainDynamic": 1 },
+    "| 17", "d 4b, e 2b, fs 2b",
+    "| 18", "g", { "name": "g_", "instrument": "guitar" }, "g 4b, fs 2b",
+    "| 19", "e 4b", { "name": "d 2b", "sustain": true }, "R", { "dynamic": null }, "d 1, d 1",
+    { "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "| 20", "d^, d^ 2b, d 1, fs 1, d^, d^ 2b, d 1, fs 1",
+    "| 21", "d^, d^ 1, a 1, d, d 1, d 1, d^, d^ 2b", "R",
+    "| 22"
 ]

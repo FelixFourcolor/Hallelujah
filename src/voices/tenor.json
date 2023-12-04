@@ -18,5 +18,12 @@
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 15", "fs^", { "name": "e^", "dynamic": 2 }, "R", "a 1, a 1, fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1",
     "| 16", "d^", { "name": "cs^", "dynamic": 2 }, "R", "e^ 1, e^ 1, d^", { "name": "cs^", "dynamic": 2 }, "R 2b",
-    "| 17"
+    { "sustain": null, "sustainDynamic": null },
+    "| 17", "d^ 4b, e^ 2b, fs^ 2b",
+    "| 18", "g^, g, g^ 2b., g^", { "name": "fs^ 2b", "dynamic": 2 },
+    "| 19", "e^ 4b", { "name": "d^ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R", "d^ 1, d^ 1",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] },
+    "| 20", "g^", { "name": "fs^", "dynamic": 2 }, "R", "d^ 1, d^ 1, g^", { "name": "fs^", "dynamic": 2 }, "R", "d^ 1, d^ 1",
+    "| 21", "g^", { "name": "fs^", "dynamic": 2 }, "R", "d^ 1, d^ 1, g^", { "name": "fs^", "dynamic": 2 }, "R 2b",
+    "| 22"
 ]

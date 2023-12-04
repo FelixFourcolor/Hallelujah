@@ -17,5 +17,12 @@
     { "sustainDynamic": null },
     "| 15", "d^, a 2b", "cs^ 1, cs^ 1, d^, a 2b", "cs^ 1, cs^ 1",
     "| 16", "d^, a 2b", "cs^ 1, cs^ 1, d^, a 2b", "R",
-    "| 17"
+    { "dynamic": 1, "sustain": null, "sustainDynamic": 1 },
+    "| 17", "d 4b, e 2b, fs 2b",
+    "| 18", "g", { "name": "g_", "instrument": "didgeridoo", "dynamic": 2, "sustain": true }, "g 4b, fs 2b",
+    "| 19", "e 4b", { "name": "d 2b", "sustain": true }, "R", { "dynamic": null }, "fs 1, fs 1",
+    { "sustainDynamic": null },
+    "| 20", "g, d 2b", "fs 1, fs 1, g, d 2b", "fs 1, fs 1",
+    "| 21", "g, d 2b", "fs 1, fs 1, g, d 2b", "R",
+    "| 22"
 ]
