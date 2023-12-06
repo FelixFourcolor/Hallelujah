@@ -24,5 +24,16 @@
     { "sustainDynamic": null },
     "| 20", "g, d 2b", "fs 1, fs 1, g, d 2b", "fs 1, fs 1",
     "| 21", "g, d 2b", "fs 1, fs 1, g, d 2b", "R",
-    "| 22"
+    "| 22", { "name": "d^^ 2b.", "transpose": -12 }, "d^, cs^, a", "R", "d^ 1, d^ 1",
+    "| 23", "b, b", "R", "e^ 1, e^ 1, cs^, a, d^ 2b 2b",
+    "cs^, a 1, a 1, fs, d, d^, d",
+    "| 25", "a 4b, b 2b, cs^ 2b",
+    "| 26", "d^, d, d^ 4b, cs^ 2b",
+    "| 27", "b 4b, a 2b", "R", "a 1, a 1",
+    "| 28", "fs, d", "R", "d^ 1, d^ 1, cs^, a, cs^, a",
+    "| 29", "d^ 2b., d^ 1, d^ 1, cs^, a", "R", "d^ 1, d^ 1",
+    "| 30", "b, g", "R", "e 1, e 1, a, a", "R", "b 1, b 1",
+    "| 31", "g, e, a ., g 1, fs 2b", "R", "d^ 1, d^ 1",
+    "| 32", "b, g, b, cs^, d^, d 1, d 1, d, d",
+    "| 33", "b_, b_ 1, b_ 1", { "name": "g_, g_", "transpose": 12 }, "d 2b"
 ]

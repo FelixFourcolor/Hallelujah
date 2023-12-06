@@ -29,5 +29,17 @@
     { "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 20", "d^, d^ 2b, d 1, fs 1, d^, d^ 2b, d 1, fs 1",
     "| 21", "d^, d^ 1, a 1, d, d 1, d 1, d^, d^ 2b", "R",
-    "| 22"
+    { "sustain": null, "sustainDynamic": null },
+    "| 22, R 2b 1b", "d 1, d 1, cs, a_", "R", "d 1, d 1",
+    "| 23", "b_, b_", "R", "e 1, e 1, cs, a_, d 2b 2b",
+    "cs 2b, d, fs 1, fs 1, a, fs",
+    "| 25, R", "cs^ 1, cs^ 1, a, cs^ 1, a 1, fs, d 1, d 1, cs^, cs^ 1, cs^ 1",
+    "| 26", "fs, fs 1, e 1, d, fs, b, b, cs^, cs^",
+    "| 27", "fs, fs, d, d, e, a 1, a 1, cs^, a",
+    "| 28, R", "a 1, a 1, fs, d", "R", "e 1, e 1, cs, a_",
+    "| 29, R", "d 1, d 1, d^, a 1, a 1, e, a 1, a 1, e, e 1, e 1",
+    "| 30", "d, d 1, d 1, g, g 1, g 1, cs, a 1, a 1, d^, fs 1, d 1",
+    "| 31", "e, b, cs, a, a, fs 1, fs 1, d, a 1, a 1",
+    "| 32", "d, d 1, d 1, d, e, fs, fs 1, fs 1, a, fs",
+    "| 33", "g, g 1, g 1, d, d, d 2b"
 ]

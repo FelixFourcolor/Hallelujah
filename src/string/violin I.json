@@ -29,5 +29,17 @@
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] },
     "| 20", "b, a 2b -1", "R 1", "d^ 1, a 1, b, a 2b -1", "R 1", "d^ 1, a 1",
     "| 21", "b, d^ 1, d^ 1, d^, d^ 1, a 1, b, a 2b -1", "R 1b +1",
-    "| 22"
+    { "sustain": null, "sustainDynamic": null },
+    "| 22", "d 4b, e 2b, fs 2b",
+    "| 23", "g", { "name": "g_", "instrument": "harp", "dynamic": 3, "sustain": true }, "g 4b, fs 2b",
+    "| 24", "e 4b, d 2b", "R", "d^ 1, d^ 1",
+    "| 25", "cs^, a", "R", "fs 1, e 1, d, g 1, fs 1, e, a 1, g 1",
+    "| 26", "fs 2b", "R", "d^ 1, cs^ 1, b, gs 1, fs 1, e, fs 1, e 1",
+    "| 27", "d, cs, d, e 1, d 1, cs, e 1, e 1, a, e",
+    "| 28, R", "a 1, a 1, d^, a", "R", "a 1, a 1, a, e",
+    "| 29, R", "a_ 1, a_ 1, fs, d", "R", "cs^ 1, cs^ 1, d^, a",
+    "| 30", "fs", "b_ 1, b_ 1, e, e", "R", "cs^ 1, cs^ 1, d^, d^",
+    "| 31", "d^, d^, cs^ ., cs^ 1, d^, a 1, a 1, fs, d",
+    "| 32, R", "b, b, b, a, a 1, a 1, fs, e",
+    "| 33", "g, g 1, g 1, b, b, a 2b"
 ]

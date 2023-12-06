@@ -25,5 +25,19 @@
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] },
     "| 20", "g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1",
     "| 21", "g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R 2b",
-    "| 22"
+    "||22",
+    "||23",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 24, R 2b 1b", "a 1, a 1, fs", { "name": "d", "dynamic": 2 }, "R 2b",
+    { "sustain": null, "sustainDynamic": null },
+    "| 25", "a 4b, b 2b, cs^ 2b",
+    "| 26", "d^, d, d^ 2b., d^", { "name": "cs^ 2b", "dynamic": 2 },
+    "| 27", "b 4b", { "name": "a 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }, "R", "a 1, a 1",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 28", "fs", { "name": "d", "dynamic": 2 }, "R", "d^ 1, d^ 1, cs^", { "name": "a", "dynamic": 2 }, "R 2b",
+    "| 29, R 2b 1b", "d^ 1, d^ 1, cs^", { "name": "a", "dynamic": 2 }, "R", "d^ 1, d^ 1",
+    "| 30", "b", { "name": "g", "dynamic": 2 }, "R", "e 1, e 1, a", { "name": "a", "dynamic": 2 }, "R", "b 1, b 1",
+    "| 31", "e 1", { "name": "e 1", "dynamic": 2 }, "e, a .", { "name": "g 1", "dynamic": 2 }, "fs 2b", "R", "d^ 1, d^ 1",
+    "| 32", "b 1", { "name": "b 1", "dynamic": 2 }, "g, b, cs^", { "name": "d^ 4b", "sustainDynamic": [ [ "2b", 2 ], [ "2b", 1 ] ] },
+    "| 33"
 ]

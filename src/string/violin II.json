@@ -29,5 +29,17 @@
     { "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 20", "g^, fs^ 2b, a^ 1, d^ 1, g^, fs^ 2b, a^ 1, d^ 1",
     "| 21", "g^, fs^ 1, fs^ 1, fs^, a^ 1, d^ 1, g^, fs^ 2b", "R",
-    "| 22"
+    { "sustain": null, "sustainDynamic": null },
+    "| 22, R 4b 1b", "a 1, a 1, fs, d",
+    "| 23, R", "d 1, d 1, b, b, e, a", "R", "a 1, a 1",
+    "| 24", "g, e, a, a, a, a^ 1, a^ 1, fs^, d^",
+    "| 25, R", "e^ 1, e^ 1, cs^", { "name": "cs^^ 1, cs^^ 1, d^^", "transpose": -12 }, "d^ 1, d^ 1, a, e^ 1, e^ 1",
+    "| 26", "a, a^ 1, g^ 1, fs^", { "name": "b^ 1", "instrument": "flute" }, "a^ 1, gs^, e^, a^ 2b 2b",
+    "gs^ 2b, a^, cs^ 1, cs^ 1, e^, cs^",
+    "| 28, R", "fs^ 1, fs^ 1", { "name": "d^^", "transpose": -5 }, "a^", "R", "fs^ 1, fs^ 1, a^, e^",
+    "| 29, R", "fs 1, fs 1, a, fs^ 1, fs^ 1, a^, e^ 1, e^ 1, a, d^ 1, d^ 1",
+    "| 30", "g^, d^ 1, d^ 1, b, g 1, g 1, e, e^ 1, e^ 1, fs^, d^ 1, d^ 1",
+    "| 31", { "name": "b^", "instrument": "flute" }, "g^, e^ ., e^ 1, a^, d^ 1, d^ 1, a, fs^ 1, fs^ 1",
+    "| 32", "g^, g^, g^, g^, fs^, fs^ 1, fs^ 1, d^, a",
+    "| 33", "d^, d^ 1, d^ 1, g^, g^, fs^ 2b"
 ]
