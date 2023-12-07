@@ -41,5 +41,5 @@
     "| 30", "g^, d^ 1, d^ 1, b, g 1, g 1, e, e^ 1, e^ 1, fs^, d^ 1, d^ 1",
     "| 31", { "name": "b^", "instrument": "flute" }, "g^, e^ ., e^ 1, a^, d^ 1, d^ 1, a, fs^ 1, fs^ 1",
     "| 32", "g^, g^, g^, g^, fs^, fs^ 1, fs^ 1, d^, a",
-    "| 33", "d^, d^ 1, d^ 1, g^, g^, fs^ 2b"
+    "| 33", { "name": "d^", "sustain": true, "sustainDynamic": 1 }, "d^ 1, d^ 1, g^, g^", { "name": "fs^ 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }
 ]

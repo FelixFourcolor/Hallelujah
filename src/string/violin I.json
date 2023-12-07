@@ -41,5 +41,5 @@
     "| 30", "fs", "b_ 1, b_ 1, e, e", "R", "cs^ 1, cs^ 1, d^, d^",
     "| 31", "d^, d^, cs^ ., cs^ 1, d^, a 1, a 1, fs, d",
     "| 32, R", "b, b, b, a, a 1, a 1, fs, e",
-    "| 33", "g, g 1, g 1, b, b, a 2b"
+    "| 33", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "g 1, g 1, b, b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }
 ]
