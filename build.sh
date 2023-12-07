@@ -1,12 +1,12 @@
-#!/bin/bash
+#!/bin/fish
 
-branch=$(git branch --show-current)
+set branch $(git branch --show-current)
 
-git checkout -b integration >/dev/null
-git merge main --no-edit >/dev/null
-git merge instrumentation --no-edit >/dev/null
+git checkout -b integration &>/dev/null
+git merge main --no-edit &>/dev/null
+git merge instrumentation --no-edit &>/dev/null
 
-noteblock-generator src World --location 0 -60 0 --orientation 0 -90 --theme netherite_block $@
+noteblock-generator src World --location 0 -60 0 --orientation 0 -90 --theme netherite_block $argv
 
-git checkout $branch >/dev/null
-git branch -D integration >/dev/null
+git checkout $branch &>/dev/null
+git branch -D integration &>/dev/null
