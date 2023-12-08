@@ -8,8 +8,8 @@
     "voices": [
         { "notes": "percussion/timpani.json", "instrument": "basedrum", "sustain": false },
         { "notes": "string/violin I.json", "instrument": "bell" },
-        { "notes": "string/violin I.json", "instrument": "flute" },
         { },
+        { "notes": "string/violin I.json", "instrument": "flute" },
         { "notes": "percussion/trumpet I.json", "instrument": "pling" },
         { "notes": "percussion/trumpet II.json", "instrument": "pling" },
         { "notes": "string/bass.json", "instrument": "guitar" },
