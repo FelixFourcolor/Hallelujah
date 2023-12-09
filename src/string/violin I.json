@@ -41,5 +41,15 @@
     "| 30", "fs", "b_ 1, b_ 1, e, e", "R", "cs^ 1, cs^ 1, d^, d^",
     "| 31", "d^, d^, cs^ ., cs^ 1, d^, a 1, a 1, fs, d",
     "| 32, R", "b, b, b, a, a 1, a 1, fs, e",
-    "| 33", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "g 1, g 1, b, b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] }
+    "| 33", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "g 1, g 1, b, b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    { "transpose": 12, "dynamic": 1, "sustainDynamic": 1 }, "a_ 2b",
+    "| 34", "a_ 2b, g_ 2b, fs_ 2b, e_ ., d_ 1",
+    "| 35", { "name": "d_ 4b.", "sustain": true }, "a_ 2b",
+    "| 36", "a_ 2b, g_ 2b, fs_ 2b, e_ ., d_ 1",
+    "| 37", { "name": "d_ 4b.", "sustain": true },
+    { "transpose": 0, "dynamic": null, "sustainDynamic": null }, "a 2b",
+    "| 38", "a 2b, g 2b, fs 2b, e ., d 1",
+    "| 39", "d 2b., e, fs 2b, gs 2b",
+    "| 40", "a 2b., a, b 2b, cs^ 2b",
+    "| 41", { "name": "d^ 4b", "sustain": true }
 ]
