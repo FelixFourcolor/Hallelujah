@@ -15,7 +15,7 @@
             { },
             { "notes": "percussion/timpani.json", "instrument": "bass", "sustainDynamic": null },
             { },
-            { "notes": "string/viola.json", "instrument": "harp" },
+            { "notes": "string/viola.json", "instrument": "harp", "dynamic": 4 },
             { "notes": "voices/tenor.json", "instrument": "guitar" },
             { "notes": "voices/soprano.json", "instrument": "bit" }
         ],
@@ -28,7 +28,7 @@
             { "notes": "string/bass.json", "instrument": "guitar" },
             { "notes": "percussion/timpani.json", "instrument": "bass", "sustainDynamic": null },
             { },
-            { "notes": "string/violin II.json", "instrument": "harp" },
+            { "notes": "string/violin II.json", "instrument": "harp", "dynamic": 4 },
             { "notes": "voices/bass.json", "instrument": "guitar" },
             { "notes": "voices/alto.json", "instrument": "bit" }
         ]
