@@ -51,5 +51,15 @@
     "| 40", { "name": "cs^ 2b.", "dynamic": 4, "sustainDynamic": [ [ 2, 3 ], [ -2, 2 ] ] },
     { "name": "a", "sustain": true, "sustainDynamic": 1 }, { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "cs^ 2b",
     "| 41", { "name": "d^ 4b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ "1b", 3 ], [ "1b", 2 ], [ "2b", 1 ] ] }, "R 4b",
-    "| 42"
+    "||42",
+    "||43",
+    "||44",
+    "||45",
+    "||46",
+    "||47",
+    { "dynamic": 4 },
+    "| 48, R 4b 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 49", "a^ 2b", { "name": "cs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "fs^ 2b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 50", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ 2, 3 ], [ -3, 2 ], [ 1, 1 ] ] }, { "name": "cs^", "dynamic": 3 }, { "name": "b", "dynamic": 2 }, { "name": "cs^ 1b +1", "dynamic": 4, "sustain": true }, { "name": "b 3b -1 -1", "trill": "cs^ 2b -1", "dynamic": 3, "sustain": true, "sustainDynamic": 1 }, { "name": "a 1", "dynamic": 2 },
+    "| 51", { "name": "a 4b", "dynamic": 3, "sustainDynamic": [ [ "2b", 2 ], [ "2b -1", 1 ] ] }
 ]

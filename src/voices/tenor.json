@@ -55,5 +55,17 @@
     "| 40", { "name": "e^ 2b.", "dynamic": 4, "sustainDynamic": [ [ 2, 3 ], [ -2, 2 ] ] },
     { "name": "d^", "sustain": true, "sustainDynamic": 1 }, { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 0 ] ] }, "e^ 2b",
     "| 41", { "name": "fs^ 4b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ "1b", 3 ], [ "1b", 2 ], [ "2b", 1 ] ] }, "R 4b",
-    "| 42"
+    "||42",
+    { "dynamic": 4 },
+    "| 43, R 4b 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 44", "a^ 2b", { "name": "cs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "fs^ 2b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 45", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ 2, 3 ], [ -3, 2 ], [ 1, 1 ] ] }, { "name": "cs^", "dynamic": 3 }, { "name": "b", "dynamic": 2 }, { "name": "cs^ 1b +1", "dynamic": 4, "sustain": true }, { "name": "b 3b -1 -1", "trill": "cs^ 2b -1", "dynamic": 3, "sustain": true, "sustainDynamic": 1 }, { "name": "a 1", "dynamic": 2 },
+    "| 46", { "name": "a 2b", "dynamic": 3, "sustain": true }, "R 2b 1b",
+    { "dynamic": null }, "a, d^, d^",
+    "| 47", "d^ 2b", "R", { "name": "b", "sustain": true, "sustainDynamic": 1 }, { "name": "e^", "sustain": true }, { "name": "cs^", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "d^", "dynamic": 2 }, { "name": "d^", "sustain": true, "sustainDynamic": 1 },
+    "| 48", { "name": "d^ 2b", "sustain": true }, { "name": "cs^ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d^ 2b", "dynamic": 2 }, "R 2b",
+    "| 49, R 4b 1b", "d^, cs^, a",
+    "| 50", { "name": "fs^", "sustain": true }, { "name": "e^ 2b", "dynamic": 2 }, { "name": "fs^, e^", "sustain": true, "sustainDynamic": 1 }, { "name": "e^", "dynamic": 2 }, "R", { "name": "e^", "sustain": true, "sustainDynamic": 1 },
+    "| 51", { "name": "e^ 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, { "name": "cs^ 2b", "dynamic": 2 }, "R 4b",
+    "| 52"
 ]
