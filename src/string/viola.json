@@ -41,7 +41,7 @@
     "| 30", "d, d 1, d 1, g, g 1, g 1, cs, a 1, a 1, d^, fs 1, d 1",
     "| 31", "e, b, cs, a, a, fs 1, fs 1, d, a 1, a 1",
     "| 32", "d, d 1, d 1, d, e, fs, fs 1, fs 1, a, fs",
-    "| 33", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "g 1, g 1, d, d", { "name": "d 2b", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "| 33", { "name": "g", "sustain": true, "sustainDynamic": 1 }, { "name": "g 1, g 1, d, d", "dynamic": 3 }, { "name": "d 2b", "sustain": true, "dynamic": 3, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     { "dynamic": 2, "sustainDynamic": 2 }, "d 2b",
     "| 34", "a_ 2b, d 2b, a_ 2b, cs 2b",
     "| 35", { "name": "a 4b.", "sustain": -1, "sustainDynamic": [ [ "2b", 2 ], [ "-2b", 1 ] ] }, "d 2b",
