@@ -52,5 +52,14 @@
     "||49",
     "||50",
     "||51",
-    "| 52"
+    "| 52, R 2b 1b", "a, a, a", "R", "a",
+    "| 53", "a, a", "R", "a 1, a 1, a, a", "R", "a 1, a 1",
+    "| 54", "a, a", "R 2b 4b",
+    "| 55, R 2b", "a^ 2b", { "name": "a^ 4b 8b 2b", "sustain": true },
+    { "name": "a^, g^, fs^, e^", "beat": 1 },
+    { "sustainDynamic": [ [ 2, 2 ], [ -2, 1 ] ] },
+    { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2, "sustain": -1 },
+    "| 58", "d^ 8b 8b 2b",
+    { "name": "d^ 2b", "sustainDynamic": 2 }, { "name": "e^ 2b", "sustain": true }, { "name": "e^ 2b", "dynamic": 2 },
+    "| 61", "e^ 8b 8b 4b"
 ]
