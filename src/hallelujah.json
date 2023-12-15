@@ -8,8 +8,8 @@
     "sustain": -1,
     "voices": [
         [
-            { "notes": "string/bass.json", "instrument": "guitar" },
             { "notes": "string/violin I.json", "instrument": "flute" },
+            { "notes": "string/bass.json", "instrument": "guitar" },
             { "notes": "percussion/trumpet I.json", "instrument": "pling" },
             { },
             { },
