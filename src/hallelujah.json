@@ -24,8 +24,8 @@
         [
             { "notes": "string/violin I.json", "instrument": "bell" },
             { "notes": "string/bass.json", "instrument": "guitar" },
-            { },
             { "notes": "percussion/trumpet II.json", "instrument": "pling" },
+            { },
             { },
             { },
             { "notes": "percussion/timpani.json", "instrument": "bass", "sustainDynamic": null },
