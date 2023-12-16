@@ -19,7 +19,7 @@
     "| 16", "d^, a 2b", { "name": "cs^ 1, cs^ 1", "dynamic": 2 }, "d^, a 2b", "R",
     { "dynamic": 2, "sustain": null, "sustainDynamic": 1 },
     "| 17", "d 4b, e 2b, fs 2b",
-    "| 18", "g", { "name": "g_", "instrument": "didgeridoo", "dynamic": 4, "sustain": true }, "g 4b, fs 2b",
+    "| 18", "g", { "name": "g_", "instrument": "didgeridoo", "dynamic": 3, "sustain": true }, "g 4b, fs 2b",
     "| 19", "e 4b", { "name": "d 2b", "sustain": true }, "R", "fs 1, fs 1",
     { "dynamic": null, "sustainDynamic": null },
     "| 20", "g, d 2b", { "name": "fs 1, fs 1", "dynamic": 2 }, "g, d 2b", { "name": "fs 1, fs 1", "dynamic": 2 },
