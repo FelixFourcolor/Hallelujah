@@ -66,7 +66,7 @@
     "| 48", { "name": "d^ 2b", "sustain": true }, { "name": "cs^ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d^ 2b", "dynamic": 2 }, "R 2b",
     "| 49, R 4b 1b", "d^, cs^, a",
     "| 50", { "name": "fs^", "sustain": true }, { "name": "e^ 2b", "dynamic": 2 }, { "name": "fs^, e^", "sustain": true, "sustainDynamic": 1 }, { "name": "e^", "dynamic": 2 }, "R", { "name": "e^", "sustain": true, "sustainDynamic": 1 },
-    "| 51", { "name": "e^ 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, { "name": "cs^ 2b", "dynamic": 2 }, "R 4b",
+    "| 51", { "name": "e^ 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, { "name": "cs^ 2b", "dynamic": 2, "sustainDynamic": 1 }, "R 4b",
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 52, R 2b.", "e^, fs^", { "name": "e^", "dynamic": 2 }, "R", "e^",
     "| 53", "fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1, fs^", { "name": "e^", "dynamic": 2 }, "R", "e^ 1, e^ 1",

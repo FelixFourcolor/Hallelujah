@@ -57,7 +57,7 @@
     "| 48", "a, a_", "R", { "name": "a", "dynamic": 2 }, "fs, d", "R", { "name": "d^", "dynamic": 2 },
     "| 49", "cs^, a", "R", { "name": "cs^", "dynamic": 2 }, "d^, d", "R", { "name": "fs", "dynamic": 2 },
     "| 50", "b, gs, a", { "name": "d", "dynamic": 2 }, "e", { "name": "e_", "instrument": "didgeridoo" }, "R", "e",
-    "| 51", "cs 2b, a_ 2b", "R 4b",
+    "| 51", "cs 2b", { "name": "a_ 2b", "dynamic": 2 }, "R 4b",
     "| 52, R 2b.", "cs^, d^", { "name": "a", "dynamic": 2 }, "R", "cs^",
     "| 53", "d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",
     "| 54", "d^", { "name": "a", "dynamic": 2 }, "R 2b 4b",

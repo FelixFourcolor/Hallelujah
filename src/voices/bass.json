@@ -66,7 +66,7 @@
     "| 48", { "name": "a", "sustain": true, "sustainDynamic": 1 }, { "name": "a_", "dynamic": 2 }, "R", { "name": "a, fs", "sustain": true, "sustainDynamic": 1 }, { "name": "d", "dynamic": 2 }, "R", { "name": "d^", "sustain": true, "sustainDynamic": 1 },
     "| 49", { "name": "cs^", "sustain": true, "sustainDynamic": 1 }, { "name": "a", "dynamic": 2 }, "R", { "name": "cs^, d^", "sustain": true, "sustainDynamic": 1 }, { "name": "d", "dynamic": 2 }, "R", { "name": "fs", "sustain": true, "sustainDynamic": 1 },
     "| 50", { "name": "b", "sustain": true }, { "name": "gs", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "a", "dynamic": 2 }, { "name": "d, e", "sustain": true, "sustainDynamic": 1 }, { "name": "e", "dynamic": 2 }, "R", { "name": "e", "sustain": true, "sustainDynamic": 1 },
-    "| 51", { "name": "cs 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, { "name": "a_ 2b", "dynamic": 2 }, "R 4b",
+    "| 51", { "name": "cs 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, { "name": "a_ 2b", "dynamic": 2, "sustainDynamic": 1 }, "R 4b",
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 52, R 2b.", "cs^, d^", { "name": "a", "dynamic": 2 }, "R", "cs^",
     "| 53", "d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",

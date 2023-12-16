@@ -65,7 +65,7 @@
     { "dynamic": null }, { "name": "a", "dynamic": 3 }, "fs, d",
     "| 49", "R", { "name": "e", "dynamic": 3 }, "a, e", "R", "d, cs, a_",
     "| 50", "d, b, a 4b, gs 2b",
-    "| 51", "a 2b", { "name": "e 2b", "dynamic": 3 }, "R 4b",
+    "| 51", "a 2b", { "name": "e 2b", "dynamic": 2 }, "R 4b",
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 52, R 2b 1b", { "name": "e^", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^", "dynamic": 3 },
     "| 53", "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 },
