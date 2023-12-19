@@ -67,8 +67,13 @@
     "| 52", { "name": "a 8b 8b", "sustain": true, "sustainDynamic": 2 },
     "| 54, R 2b", { "name": "a 2b", "sustainDynamic": 2 }, { "name": "a 2b", "sustain": true }, { "name": "a 2b", "dynamic": 2 },
     "| 55", { "name": "a 8b 8b", "sustain": true, "sustainDynamic": 2 },
-    "| 57, R 4b", { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2, "sustain": -1 },
+    "| 57, R 4b", { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2 },
     "| 58", { "name": "d^ 8b 8b 2b", "sustainDynamic": 2 },
     { "name": "d^ 2b", "sustainDynamic": 2 }, { "name": "e^ 2b", "sustain": true }, { "name": "e^ 2b", "dynamic": 2 },
-    "| 61", { "name": "e^ 8b 8b 4b", "sustainDynamic": 2 }
+    "| 61", { "name": "e^ 8b 8b 4b", "sustainDynamic": 2 },
+    { "name": "fs^ 2b", "sustain": true }, { "name": "fs^ 2b", "dynamic": 2 },
+    "| 64", { "name": "fs^ 8b 8b 2b.", "sustainDynamic": 2 },
+    { "name": "fs^, g^ 2b", "sustain": true }, { "name": "g^ 2b", "dynamic": 2 },
+    { "sustainDynamic": null },
+    "| 67", "g^ 4b 2b."
 ]

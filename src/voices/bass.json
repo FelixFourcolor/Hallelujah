@@ -74,5 +74,14 @@
     "| 55, R 2b.", "cs^, d^", { "name": "a", "dynamic": 2 }, "R", "cs^",
     "| 56", "d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "a", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",
     "| 57", "d^", { "name": "a", "dynamic": 2 }, "R 2b 4b",
-    "| 58"
+    "| 58, R 2b.", "fs, g", { "name": "d", "dynamic": 2 }, "R", "fs",
+    "| 59", "g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1",
+    "| 60", "g", { "name": "d", "dynamic": 2 }, "R 2b 4b",
+    "| 61, R 2b.", "gs, a", { "name": "e", "dynamic": 2 }, "R", "gs",
+    "| 62", "a", { "name": "e", "dynamic": 2 }, "R", "gs 1, gs 1, a", { "name": "e", "dynamic": 2 }, "R", "gs 1, gs 1",
+    "| 63", "a", { "name": "e", "dynamic": 2 }, "R 2b 4b",
+    "| 64, R 2b.", "as, b", { "name": "fs", "dynamic": 2 }, "R", "as",
+    "| 65", "b", { "name": "fs", "dynamic": 2 }, "R", "as 1, as 1, b", { "name": "fs", "dynamic": 2 }, "R", "as 1, as 1",
+    "| 66", "b 2b", { "name": "b_ 2b", "dynamic": 2 }, "R 4b",
+    "| 67, R 4b"
 ]

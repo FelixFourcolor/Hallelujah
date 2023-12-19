@@ -73,5 +73,15 @@
     "| 52", { "name": "a 8b 8b", "sustain": true, "sustainDynamic": 2 },
     "| 54, R 2b", { "name": "a 2b", "sustainDynamic": 2 }, { "name": "a 2b", "sustain": true }, { "name": "a 2b", "dynamic": 2 },
     "| 55", { "name": "a 8b 8b 4b", "sustain": true, "sustainDynamic": 2 }, "R 4b",
-    "| 58"
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 58, R 2b.", "a, b", { "name": "a", "dynamic": 2 }, "R", "a",
+    "| 59", "b", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1, b", { "name": "a", "dynamic": 2 }, "R", "a 1, a 1",
+    "| 60", "b", { "name": "a", "dynamic": 2 }, "R 2b 4b",
+    "| 61, R 2b.", "e, a", { "name": "gs", "dynamic": 2 }, "R", "e",
+    "| 62", "a", { "name": "gs", "dynamic": 2 }, "R", "e 1, e 1, a", { "name": "gs", "dynamic": 2 }, "R", "e 1, e 1",
+    "| 63", "a", { "name": "gs", "dynamic": 2 }, "R 2b 4b",
+    "| 64, R 2b.", "fs, b", { "name": "as", "dynamic": 2 }, "R", "fs",
+    "| 65", "b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1, b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1",
+    "| 66", "b 2b", { "name": "fs 2b", "dynamic": 2 }, "R 4b",
+    "| 67, R 4b"
 ]

@@ -69,9 +69,18 @@
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 52, R 2b 1b", { "name": "e^", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^", "dynamic": 3 },
     "| 53", "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 },
-    "| 54", "fs^, e^", "R 4b 2b",
+    "| 54", "fs^, e^ 2b", "R 1b 4b",
     "| 55, R 2b 1b", { "name": "e^", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^", "dynamic": 3 },
     "| 56", "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 }, "fs^, e^ 2b", { "name": "e^ 1, e^ 1", "dynamic": 3 },
-    "| 57", "fs^, e^", "R 4b 2b",
-    "| 58"
+    "| 57", "fs^, e^ 2b", "R 1b 4b",
+    "| 58, R 2b 1b", "d^, g^", { "name": "fs^", "sustainDynamic": 2 }, { "name": "a^", "dynamic": 3 }, "fs^",
+    "| 59", "d^, fs^ 2b", { "name": "d^ 1, d^ 1", "dynamic": 3 }, "g^, fs^ 2b", { "name": "d^ 1, d^ 1", "dynamic": 3 },
+    "| 60", "g^, fs^ 2b", "R 1b 4b",
+    "| 61, R 2b 1b", "e^, a^", { "name": "gs^", "sustainDynamic": 2 }, { "name": "b", "dynamic": 3 }, "gs^",
+    "| 62", "a^", { "name": "gs^", "sustainDynamic": 2 }, { "name": "e^, gs^ 1, gs^ 1", "dynamic": 3 }, "a^, gs^ 2b", { "name": "gs^ 1, gs^ 1", "dynamic": 3 },
+    "| 63", "a^, gs^ 2b", "R 1b 4b",
+    "| 64, R 2b 1b", "fs^", { "name": "b^", "instrument": "flute" }, { "name": "as^", "instrument": "flute", "sustainDynamic": 2 }, { "name": "cs^", "dynamic": 3 }, "fs^",
+    "| 65", { "name": "b^", "instrument": "flute" }, { "name": "as^", "instrument": "flute", "sustainDynamic": 2 }, { "name": "cs^, fs^ 1, fs^ 1", "dynamic": 3 }, { "name": "b^, as^ 2b", "instrument": "flute" }, { "name": "fs^ 1, fs^ 1", "dynamic": 3 },
+    "| 66", { "name": "b^ 2b, as^ 2b", "instrument": "flute" }, "R 4b",
+    "| 67, R 4b"
 ]
