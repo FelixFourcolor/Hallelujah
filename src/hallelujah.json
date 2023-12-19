@@ -10,7 +10,7 @@
         [
             { "notes": "string/bass.json", "instrument": "guitar" },
             { },
-            { "notes": "percussion/timpani.json", "instrument": "bass", "sustainDynamic": 1 },
+            { "notes": "percussion/timpani.json", "instrument": "bass", "sustain": 2, "sustainDynamic": 1 },
             { "notes": "string/violin I.json", "instrument": "flute" },
             { "notes": "percussion/timpani.json", "instrument": "pling", "dynamic": 1, "sustainDynamic": 0 },
             { },
@@ -26,7 +26,7 @@
         [
             { "notes": "string/bass.json", "instrument": "guitar" },
             { },
-            { "notes": "percussion/timpani.json", "instrument": "bass", "sustainDynamic": 1 },
+            { "notes": "percussion/timpani.json", "instrument": "bass", "sustain": 2, "sustainDynamic": 1 },
             { "notes": "string/violin I.json", "instrument": "bell" },
             { "notes": "percussion/timpani.json", "instrument": "pling", "dynamic": 1, "sustainDynamic": 0 },
             { },
