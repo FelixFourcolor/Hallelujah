@@ -31,7 +31,7 @@
     "||30",
     "||31",
     "| 32, R 4b 1b", "a 1, a 1, a, a",
-    "| 33", "d^, d 1, d 1", { "name": "d, d, fs 2b", "dynamic": 2, "sustainDynamic": 1 }, "R 2b",
+    "| 33", { "name": "d^, d 1, d 1", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "d, d, fs 2b", "dynamic": 1, "sustainDynamic": 1 }, "R 2b",
     "||34",
     "||35",
     "||36",
