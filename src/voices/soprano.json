@@ -44,7 +44,7 @@
     "| 36, R 4b", { "name": "fs 2b, e .", "sustain": true }, "d 1",
     "| 37", { "name": "d 4b.", "sustain": -4 },
     { "dynamic": null, "sustainDynamic": null }, { "name": "fs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 38", { "name": "e^ 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ 2, 3 ], [ -3, 2 ], [ 1, 1 ] ] },
+    "| 38", { "name": "e^ 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ 2, 3 ], [ -2, 2 ] ] },
     "d^ 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "cs^ 2b",
     "| 39", { "name": "d^ 2b.", "dynamic": 4, "sustainDynamic": [ [ 2, 3 ], [ -2, 2 ] ] },
     { "name": "cs^", "sustain": true, "sustainDynamic": 1 }, { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "d^ 2b",
