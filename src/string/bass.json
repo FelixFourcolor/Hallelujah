@@ -73,5 +73,7 @@
     "| 64, R 2b.", "as, b", { "name": "fs", "dynamic": 2 }, "R", "as",
     "| 65", "b", { "name": "fs", "dynamic": 2 }, "R", "as 1, as 1, b", { "name": "fs", "dynamic": 2 }, "R", "as 1, as 1",
     "| 66", "b 2b", { "name": "b_ 2b", "dynamic": 2 }, "R 4b",
-    "| 67, R 4b"
+    "| 67, R 4b", "b 2b, b 2b",
+    "| 68", "cs^ 2b., cs^, d^ 2b, d 2b",
+    "| 69", "a 2b."
 ]

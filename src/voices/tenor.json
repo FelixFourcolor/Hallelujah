@@ -84,5 +84,8 @@
     "| 65", "d^", { "name": "cs^", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "cs^", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",
     { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 66", "d^ 2b", { "name": "d^ 2b", "dynamic": 2 }, "R 4b",
-    "| 67, R 4b"
+    { "dynamic": 4, "sustain": null, "sustainDynamic": 3 },
+    "| 67, R 4b", { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 3 },
+    "| 68", "e^ 2b.", { "name": "e^", "dynamic": 3, "sustain": true }, { "name": "d^", "sustain": true }, { "name": "cs^", "dynamic": 3, "sustain": true }, { "name": "d^", "sustain": true }, { "name": "e^", "dynamic": 3 },
+    "| 69", { "name": "cs^ 4b", "sustain": true, "sustainDynamic": [ [ "2b", 3 ], [ "2b", 2 ] ] }
 ]

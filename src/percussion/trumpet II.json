@@ -67,6 +67,8 @@
     { "name": "fs^ 2b", "sustain": true }, { "name": "fs^ 2b", "dynamic": 2 },
     "| 64", { "name": "fs^ 8b 8b 2b.", "sustainDynamic": 2 },
     { "name": "fs^, g^ 2b", "sustain": true }, { "name": "g^ 2b", "dynamic": 2 },
-    { "sustainDynamic": null },
-    "| 67", "g^ 4b 2b."
+    "| 67", { "name": "g^ 8b 2b.", "sustainDynamic": null },
+    { "sustain": true, "sustainDynamic": 1 }, "g^, fs^, e^, fs^, g^",
+    "| 69", "e 4b", "R 4b",
+    "| 70"
 ]

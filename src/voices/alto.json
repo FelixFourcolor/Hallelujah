@@ -84,5 +84,8 @@
     "| 65", "b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1, b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1",
     { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 66", "b 2b", { "name": "fs 2b", "dynamic": 2 }, "R 4b",
-    "| 67, R 4b"
+    { "dynamic": 4, "sustain": null, "sustainDynamic": 3 },
+    "| 67, R 4b", { "name": "b 2b", "sustain": true }, { "name": "b 2b", "dynamic": 3 },
+    "| 68", "a 2b.", { "name": "a", "dynamic": 3, "sustain": true }, { "name": "a 2b", "sustain": true }, { "name": "a 2b", "dynamic": 3 },
+    "| 69", { "name": "a 4b", "sustain": true, "sustainDynamic": [ [ "2b", 3 ], [ "2b", 2 ] ] }
 ]

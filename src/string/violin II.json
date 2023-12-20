@@ -83,5 +83,10 @@
     "| 65", { "name": "b^", "instrument": "flute" }, { "name": "as^", "instrument": "flute", "sustainDynamic": 2 }, { "name": "cs^, fs^ 1, fs^ 1", "dynamic": 3 }, { "name": "b^, as^ 2b", "instrument": "flute" }, { "name": "fs^ 1, fs^ 1", "dynamic": 3 },
     { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 66", { "name": "b^ 2b", "instrument": "flute" }, { "name": "as^ 2b", "instrument": "flute", "dynamic": 3 }, "R 4b",
-    "| 67, R 4b"
+    { "sustain": null, "sustainDynamic": null },
+    "| 67, R 4b", "d^ 2b, d^ 2b",
+    { "sustain": true },
+    "| 68", "e^", { "name": "a, a", "dynamic": 3 }, { "name": "e^", "dynamic": 3, "sustain": -1 }, "d^", { "name": "cs^, d^", "dynamic": 3 }, { "name": "e^", "dynamic": 3, "sustain": -1 },
+    { "sustain": null },
+    "| 69", "cs^ 4b", "R"
 ]
