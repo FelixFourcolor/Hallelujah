@@ -82,6 +82,7 @@
     "| 63", "cs^", { "name": "b", "dynamic": 2 }, "R 2b 4b",
     "| 64, R 2b.", "cs^, d^", { "name": "cs^", "dynamic": 2 }, "R", "cs^",
     "| 65", "d^", { "name": "cs^", "dynamic": 2 }, "R", "cs^ 1, cs^ 1, d^", { "name": "cs^", "dynamic": 2 }, "R", "cs^ 1, cs^ 1",
+    { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 66", "d^ 2b", { "name": "d^ 2b", "dynamic": 2 }, "R 4b",
     "| 67, R 4b"
 ]

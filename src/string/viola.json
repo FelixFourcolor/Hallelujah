@@ -82,6 +82,7 @@
     "| 63", "e, e 2b", "R 1b 4b",
     "| 64, R 2b 1b", "fs, fs", { "name": "fs", "sustainDynamic": 2 }, { "name": "as", "dynamic": 3 }, "fs",
     "| 65", "fs", { "name": "fs", "sustainDynamic": 2 }, { "name": "as, fs 1, fs 1", "dynamic": 3 }, "fs, fs 2b", { "name": "fs 1, fs 1", "dynamic": 3 },
-    "| 66", "fs 2b, fs 2b", "R 4b",
+    { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "| 66", "fs 2b", { "name": "fs 2b", "dynamic": 3 }, "R 4b",
     "| 67, R 4b"
 ]

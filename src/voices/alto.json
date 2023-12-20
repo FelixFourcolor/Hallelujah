@@ -82,6 +82,7 @@
     "| 63", "a", { "name": "gs", "dynamic": 2 }, "R 2b 4b",
     "| 64, R 2b.", "fs, b", { "name": "as", "dynamic": 2 }, "R", "fs",
     "| 65", "b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1, b", { "name": "as", "dynamic": 2 }, "R", "fs 1, fs 1",
+    { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "| 66", "b 2b", { "name": "fs 2b", "dynamic": 2 }, "R 4b",
     "| 67, R 4b"
 ]
