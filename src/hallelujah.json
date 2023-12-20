@@ -9,7 +9,7 @@
     "voices": [
         [
             { "notes": "string/bass.json", "instrument": "guitar" },
-            { "notes": "percussion/timpani.json", "instrument": "basedrum", "dynamic": 2, "sustainDynamic": 0 },
+            { "notes": "percussion/timpani.json", "instrument": "pling", "dynamic": 2, "sustainDynamic": 0 },
             { },
             { "notes": "percussion/timpani.json", "instrument": "bass", "sustain": 3, "sustainDynamic": [ [ -1, "-1" ], [ 1, "-2" ] ] },
             { },
@@ -26,7 +26,7 @@
 
         [
             { "notes": "string/bass.json", "instrument": "guitar" },
-            { "notes": "percussion/timpani.json", "instrument": "basedrum", "dynamic": 2, "sustainDynamic": 0 },
+            { "notes": "percussion/timpani.json", "instrument": "pling", "dynamic": 2, "sustainDynamic": 0 },
             { },
             { "notes": "percussion/timpani.json", "instrument": "bass", "sustain": 3, "sustainDynamic": [ [ -1, "-1" ], [ 1, "-2" ] ] },
             { },
