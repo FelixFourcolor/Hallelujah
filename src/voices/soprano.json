@@ -75,7 +75,7 @@
     "| 64", { "name": "fs^ 8b 8b 2b.", "sustainDynamic": 2 },
     { "name": "fs^, g^ 2b", "sustain": true }, { "name": "g^ 2b", "dynamic": 2 },
     "| 67", { "name": "g^ 8b 2b.", "sustainDynamic": null },
-    { "dynamic": 4, "sustain": 3 },
+    { "dynamic": 4, "sustainDynamic": 3 },
     { "name": "g^", "dynamic": 3, "sustain": true }, { "name": "fs^", "sustain": true }, { "name": "e^", "dynamic": 3, "sustain": true }, { "name": "fs^", "sustain": true }, { "name": "g^", "dynamic": 3 },
     "| 69", { "name": "e^ 4b", "sustain": true, "sustainDynamic": [ [ "2b", 3 ], [ "2b", 2 ] ] }
 ]
