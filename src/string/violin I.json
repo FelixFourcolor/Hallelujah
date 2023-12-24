@@ -94,6 +94,10 @@
     "| 68", "a", { "name": "e, e", "dynamic": 2 }, { "name": "g", "dynamic": 2, "sustain": -1 }, "fs", { "name": "e, fs", "dynamic": 2 }, { "name": "g", "dynamic": 2, "sustain": -1 },
     { "sustain": null },
     "| 69", "e 4b", "R 4b",
-    "| 70"
+    "||70",
+    "| 71, R 4b 2b", "a 2b",
+    "| 72", "d^ 2b, fs 2b, b 2b, d 2b",
+    "| 73", "g 2b", { "name": "fs, e", "dynamic": 2 }, { "name": "fs 2b, e .", "sustain": true }, { "name": "d 1", "dynamic": 2 },
+    "| 74", "d 4b"
 ]
 

@@ -88,5 +88,12 @@
     "| 67, R 4b", "g 2b, g 2b",
     "| 68", "e 2b.", { "name": "a, a", "sustain": true }, { "name": "a, a", "dynamic": 3, "sustain": true }, { "name": "a", "dynamic": 3 },
     "| 69", "a 4b", "R 4b",
-    "| 70"
+    { "dynamic": 2 },
+    "| 70, R", { "name": "a, b", "sustain": true }, "cs^, fs, a, e, a",
+    "| 71", "a 2b, gs 2b, a 2b", "R 2b",
+    { "dynamic": 3 },
+    "| 72, R", { "name": "a_, d", "sustain": true }, "cs, b_ 2b.", { "name": "a", "sustain": true },
+    { "dynamic": null },
+    "| 73", "g 2b", { "name": "a, b", "dynamic": 3, "sustain": true, "sustainDynamic": 1 }, "a 4b",
+    "| 74", "a 4b"
 ]
