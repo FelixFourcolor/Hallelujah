@@ -37,8 +37,8 @@
             { },
             { },
             { "notes": "string/violin II.json", "instrument": "harp", "dynamic": 4 },
-            { "notes": "voices/tenor.json", "instrument": "guitar" },
-            { "notes": "voices/alto.json", "instrument": "bit" }
+            { "notes": "voices/alto.json", "instrument": "bit" },
+            { "notes": "voices/tenor.json", "instrument": "guitar" }
         ]
     ]
 }
