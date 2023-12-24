@@ -93,5 +93,10 @@
     "gs 2b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "1b", 1 ] ] }, "R 2b",
     "| 72, R", { "name": "a, d^", "sustain": true }, "cs^, b 2b.", { "name": "a", "dynamic": 2, "sustain": true, "sustainDynamic": 1 },
     "| 73", { "name": "g 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "b", "dynamic": 2 }, "a 4b",
-    "| 74", { "name": "a 4b", "sustainDynamic": [ [ "2b", 2 ], [ "-2b", 1 ] ] }
+    "| 74", { "name": "a 4b", "sustainDynamic": [ [ "2b", 2 ], [ "-2b", 1 ] ] },
+    { "sustainDynamic": [ [ 2, 2 ], [ -2, 1 ] ] },
+    { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2 },
+    "| 75", { "name": "d^ 8b 2b.", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    { "name": "d^, d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2 },
+    "| 77", { "name": "d^ 8b 2b", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] }
 ]

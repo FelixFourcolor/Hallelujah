@@ -76,5 +76,9 @@
     "||71",
     "||72",
     "||73",
-    "| 74, R 4b"
+    { "sustainDynamic": [ [ 2, "-1" ], [ -2, "-2" ] ] },
+    "| 74, R 4b", { "name": "d 2b", "sustain": true }, { "name": "d 2b", "dynamic": "-1" },
+    "| 75", "d 8b 2b.",
+    { "name": "d", "sustain": true, "sustainDynamic": "-2" }, { "name": "d 2b", "sustain": true }, { "name": "d 2b", "dynamic": "-1" },
+    "| 77", "d 8b 1b"
 ]

@@ -95,5 +95,11 @@
     "| 72, R", { "name": "a_, d", "sustain": true }, "cs, b_ 2b.", { "name": "a", "sustain": true },
     { "dynamic": null },
     "| 73", "g 2b", { "name": "a, b", "dynamic": 3, "sustain": true, "sustainDynamic": 1 }, "a 4b",
-    "| 74", "a 4b"
+    "| 74", "a 4b",
+    { "name": "d 2b, d 2b, d 2b", "dynamic": 3, "sustain": 2 }, "R",
+    { "name": "d, d^, d^ 2b, d, d^, d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    { "name": "d, d 2b, d 2b, d 2b", "dynamic": 3, "sustain": 2 }, "R",
+    { "name": "d 1, d 1", "dynamic": 3 }, { "name": "d, d 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    { "name": "d 1, d 1", "dynamic": 3 }, { "name": "d, d 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "R 3b"
 ]
