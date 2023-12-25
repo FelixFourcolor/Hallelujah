@@ -100,7 +100,6 @@
     { "name": "d 2b, d 2b, d 2b", "dynamic": 3, "sustain": 2 }, "R",
     { "name": "d^, g^, fs^ 2b, d^, g^, fs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     { "name": "d, d 2b, d 2b, d 2b", "dynamic": 3, "sustain": 2 }, "R",
-    { "name": "d^ 1, d^ 1", "dynamic": 3 }, { "name": "b, a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    { "name": "d^ 1, d^ 1", "dynamic": 3 }, { "name": "b, a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "R 3b"
+    { "name": "d^ 1, d^ 1", "dynamic": 3 }, { "name": "g^, fs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    { "name": "d^ 1, d^ 1", "dynamic": 3 }, { "name": "g^, fs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }
 ]
