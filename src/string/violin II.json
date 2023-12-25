@@ -55,7 +55,7 @@
     { "dynamic": 3, "transpose": 12 },
     "a_, d 2b, fs_ 2b",
     "| 42", "b_ 2b, d_ 2b, g_ 2b", { "name": "fs_, e_", "dynamic": 2 },
-    "| 43", { "name": "fs_ 1b", "sustain": true }, { "name": "fs_ 3b -1", "trill": "e_ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "d_ 1", "dynamic": 2 }, { "name": "d_ 2b", "sustain": true }, "R 2b",
+    "| 43", { "name": "fs_ 1b +1", "sustain": true }, { "name": "e_ 3b -1 -1", "trill": "fs_ 2b -1", "dynamic": 2, "sustain": true, "sustainDynamic": 1 }, { "name": "d_ 1", "dynamic": 2 }, { "name": "d_ 2b", "sustain": true }, "R 2b",
     "||44",
     "||45",
     { "transpose": 0 },
