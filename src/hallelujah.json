@@ -2,6 +2,7 @@
     "time": 16,
     "width": 12,
     "beat": 2,
+    "tick": 18.5,
     "transpose": -3,
     "dynamic": 3,
     "sustainDynamic": 2,
