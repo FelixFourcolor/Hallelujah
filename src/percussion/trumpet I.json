@@ -83,14 +83,14 @@
     "| 77", { "name": "d 8b 1b", "sustainDynamic": [ [ "2b.", 2 ], [ "-2b.", 1 ] ] },
     { "sustainDynamic": [ [ -1, "-1" ], [ 1, 1 ] ] },
     "d 1, d 1", { "name": "fs", "sustain": true }, "a, d^ 2b, a^ 2b",
-    "| 79", { "name": "d^^ 2b", "instrument": "bell", "dynamic": 3, "sustainDynamic": 2 }, "fs^ 2b", { "name": "b^ 2b", "instrument": "bell", "dynamic": 3, "sustainDynamic": 2 }, "d^ 2b",
+    "| 79", { "name": "d^^ 2b", "instrument": "bell" }, "fs^ 2b", { "name": "b^ 2b", "instrument": "bell" }, "d^ 2b",
     "| 80", "g^ 2b", { "name": "fs^", "sustain": true }, "e^, e^ 2b., d^",
     "| 81", "d^ 2b", "R 2b", "fs^ 2b", { "name": "fs^ .", "sustain": true }, "g^ 1",
     "| 82", "a^ 2b", "R", "a^, fs^ 2b", { "name": "fs^ .", "sustain": true }, "g^ 1",
     "| 83", "a^ 2b", "R 2b", "fs^ 2b", { "name": "fs^ .", "sustain": true }, "g^ 1",
     "| 84", "a^ 2b", "R", "a^, fs^ 2b", { "name": "fs^ .", "sustain": true }, "g^ 1",
     "| 85", "a^ 2b", "R 4b", "a 2b",
-    "| 86", "d^ 2b, fs^ 2b", { "name": "b^ 2b", "instrument": "bell", "dynamic": 3, "sustainDynamic": 2 }, "d^ 2b",
+    "| 86", "d^ 2b, fs^ 2b", { "name": "b^ 2b", "instrument": "bell" }, "d^ 2b",
     "| 87", "g^ 2b", { "name": "fs^", "sustain": true }, "e^, e^ 2b., d^",
     "| 88", "d^"
 ]
