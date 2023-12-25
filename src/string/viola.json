@@ -101,5 +101,16 @@
     { "name": "d, d 2b, d 2b, d 2b", "dynamic": 3, "sustain": 2 }, "R",
     { "name": "d 1, d 1", "dynamic": 3 }, { "name": "d, d 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     { "name": "d 1, d 1", "dynamic": 3 }, { "name": "d, d 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "R 3b"
+    "fs, a 2b, d 2b",
+    "| 79", "fs 2b, fs 2b, d 2b, d 2b",
+    "| 80", "e 2b, a 2b, a 2b, a 2b",
+    "| 81", "a 2b", "R 2b",
+    { "name": "fs 2b, fs, fs, a 2b, a, a", "beat": 1, "dynamic": 3, "sustain": true, "sustainDynamic": 1 },
+    "| 82", "a 2b", "R", "a", { "name": "a 2b, a, a, a 2b, a, a", "beat": 1, "dynamic": 3, "sustain": true, "sustainDynamic": 1 },
+    "| 83", "d^ 2b", "R 2b", { "name": "a 2b, a, a, a 2b, a, a", "beat": 1, "dynamic": 3, "sustain": true, "sustainDynamic": 1 },
+    "| 84", "d^ 2b", "R 2b", { "name": "a 2b, a, a, a 2b, a, a", "beat": 1, "dynamic": 3, "sustain": true, "sustainDynamic": 1 },
+    "| 85", "a 2b", "R", "a, a 2b, d 2b",
+    "| 86", { "name": "fs, d, a", "sustain": true }, "fs, d 2b, a 2b",
+    "| 87", "e 2b", { "name": "a", "sustain": true }, "a, a 2b, e 2b",
+    "| 88", "fs 2b"
 ]
