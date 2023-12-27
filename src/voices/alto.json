@@ -36,7 +36,7 @@
     "| 28", "a", { "name": "fs", "dynamic": 2 }, "R", "fs 1, fs 1, e", { "name": "cs", "dynamic": 2 }, "R 2b",
     { "sustain": null, "sustainDynamic": null },
     "| 29", "d 4b, e 2b, fs 2b",
-    "| 30", "g", { "name": "g_", "transpose": 12 }, "g 2b.", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "fs 2b",
+    "| 30", "g", { "name": "g_", "instrument": "guitar" }, "g 2b.", { "name": "g", "sustain": true, "sustainDynamic": 1 }, "fs 2b",
     "| 31", "e 4b", { "name": "d", "dynamic": 2 },
     { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "a 1, a 1, fs", { "name": "d", "dynamic": 2 },
