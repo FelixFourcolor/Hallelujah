@@ -18,7 +18,7 @@
             { },
             { },
             { "notes": "percussion/trumpet I.json", "instrument": "pling" },
-            { },
+            { "notes": "voices/soprano.json", "instrument": "harp" },
             { },
             { "notes": "string/viola.json", "instrument": "harp", "dynamic": 4 },
             { "notes": "voices/bass.json", "instrument": "guitar" },
