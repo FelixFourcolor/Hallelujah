@@ -102,6 +102,18 @@
     { "sustainDynamic": [ [ 2, 2 ], [ -2, 1 ] ] },
     "d^, d^ 2b", { "name": "d^ 2b", "dynamic": 2, "sustain": -1 }, { "name": "d^ 2b", "sustainDynamic": 2 },
     { "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }
-
+    "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 }, "R", "fs 1, fs 1, g", { "name": "d", "dynamic": 2 },
+    { "dynamic": 4, "sustain": null, "sustainDynamic": null }, "R",
+    { "name": "d", "sustain": true }, "d^ 2b", { "name": "fs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 79", "b 2b", { "name": "d 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "g 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "fs, fs", "dynamic": 3 },
+    "| 80", { "name": "e 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d, d", "dynamic": 3 }, "a 4b",
+    "| 81", { "name": "d 2b", "sustain": true }, "R 2b", { "name": "d 2b", "sustain": true }, "d 2b",
+    "| 82", { "name": "d^ 2b", "sustain": true }, "R", { "name": "d", "dynamic": 3, "sustain": true }, { "name": "d 2b", "sustain": true }, "d 2b",
+    "| 83", { "name": "d^ 2b", "sustain": true }, "R 2b", { "name": "d 2b", "sustain": true }, "d 2b",
+    "| 84", { "name": "d^ 2b", "sustain": true }, "R", { "name": "d", "dynamic": 3, "sustain": true }, { "name": "d 2b", "sustain": true }, "d 2b",
+    "| 85", { "name": "d^ 2b", "sustain": true }, "R",
+    { "name": "d", "sustain": true }, "d^ 2b", { "name": "fs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 86", "b 2b", { "name": "d 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "g 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "fs, fs", "dynamic": 3 },
+    "| 87", { "name": "e 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d, d", "dynamic": 3 }, "a 4b",
+    "| 88", { "name": "d 2b", "sustain": true }
 ]

@@ -88,7 +88,18 @@
     { "dynamic": null, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 75, R 2b.", "d^, g^", { "name": "fs^", "dynamic": 2 },
     "R", "d^, g^", { "name": "fs^", "dynamic": 2 }, "R 2b 4b",
-    "| 77, R 2b.", "d^ 1, d^ 1, g^", { "name": "fs^", "dynamic": 2 }, 
+    "| 77, R 2b.", "d^ 1, d^ 1, g^", { "name": "fs^", "dynamic": 2 },
     "R", "d^ 1, d^ 1, g^", { "name": "fs^", "dynamic": 2 },
-    "R"
+    { "dynamic": 4, "sustain": null, "sustainDynamic": null }, "R",
+    { "name": "a", "sustain": true }, "a 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 79", "fs^ 2b", { "name": "d^ 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a, a", "dynamic": 3 },
+    "| 80", { "name": "d^ 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "d^, d^", "dynamic": 3 }, { "name": "d^ 2b", "sustain": true }, { "name": "cs^ 2b", "dynamic": 2, "sustain": true },
+    "| 81", { "name": "d^ 2b", "sustain": true }, "R 2b", { "name": "a 2b", "sustain": true }, "a 2b",
+    "| 82", { "name": "d^ 2b", "sustain": true }, "R", { "name": "a", "dynamic": 3, "sustain": true }, { "name": "a 2b", "sustain": true }, "a 2b",
+    "| 83", { "name": "d^ 2b", "sustain": true }, "R 2b", { "name": "a 2b", "sustain": true }, "a 2b",
+    "| 84", { "name": "d^ 2b", "sustain": true }, "R", { "name": "a", "dynamic": 3, "sustain": true }, { "name": "a 2b", "sustain": true }, "a 2b",
+    "| 85", { "name": "d^ 2b", "sustain": true }, "R 4b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 86", "d^ 2b", { "name": "fs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "b 2b", { "name": "d^ 2b", "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 87", { "name": "g^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "fs^, e^", "dynamic": 3 }, { "name": "fs^ .", "sustain": true }, { "name": "e^ 3b -1", "trill": "fs^ 3", "dynamic": 3, "sustain": true },
+    "| 88", { "name": "d^ 2b", "sustain": true }
 ]
