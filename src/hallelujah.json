@@ -36,9 +36,9 @@
             { },
             { "notes": "percussion/trumpet II.json", "instrument": "pling" },
             { },
-            { },
+            { "notes": "voices/alto.json", "instrument": "iron_xylophone" },
             { "notes": "string/violin II.json", "instrument": "harp", "dynamic": 4 },
-            { "notes": "voices/alto.json", "instrument": "bit" },
+            { },
             { "notes": "voices/tenor.json", "instrument": "guitar" }
         ]
     ]
