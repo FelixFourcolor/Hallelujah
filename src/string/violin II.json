@@ -116,5 +116,13 @@
     "| 86", "d^, cs^, d^, e^, d^, cs^, b, a, g, a, b, a, a 2b", { "name": "a^ 2b", "sustain": -1 },
     { "beat": 2, "dynamic": null, "sustain": null, "sustainDynamic": null },
     "| 87", "cs^ 2b, d^ 2b, d^ 2b, cs^ 2b",
-    "| 88", "d^ 2b"
+    "| 88", "d^ 2b", "R",
+    { "dynamic": 3, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "d^", { "name": "g^", "dynamic": 4 }, "fs^ 2b", "d^", { "name": "g^", "dynamic": 4 }, "fs^ 2b",
+    "d^", { "name": "g^", "dynamic": 4 }, "fs^ 2b", "d^",
+    { "beat": 1, "sustain": true, "sustainDynamic": 1 },
+    "| 90", "g^ 2b, fs^, fs^, fs^ 2b, d^, d^, g^ 2b, fs^, fs^, fs^ 2b, d^, d^",
+    "| 91", "g^ 2b, fs^, fs^, fs^ 2b, d^, d^, g^ 2b, fs^, fs^, fs^ 2b, d^, d^",
+    { "beat": 2 },
+    "| 92", "g^, fs^", "R 4b"
 ]

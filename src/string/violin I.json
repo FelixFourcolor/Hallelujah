@@ -115,6 +115,14 @@
     { "beat": 2, "sustain": null, "sustainDynamic": null }, "d^ 2b, a 2b",
     "| 86", "d^ 2b, fs 2b, b 2b, d 2b",
     "| 87", "g 2b", { "name": "fs", "sustain": true, "sustainDynamic": 1 }, "e", { "name": "fs .", "sustain": true }, { "name": "e .", "trill": "fs .", "sustain": true }, "d",
-    "| 88", "d 2b"
+    "| 88", "d 2b", "R",
+    { "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "a, b, a 2b -1", "R 1", "a, b, a 2b -1", "R 1",
+    "a, b, a 2b -1", "R 1", "a",
+    { "beat": 1, "sustainDynamic": 1 },
+    "| 90", "b 2b, a, a, d^ 2b, a, a, b 2b, a, a, d^ 2b, a, a",
+    "| 91", "b 2b, a, a, d^ 2b, a, a, b 2b, a, a, d^ 2b, a, a",
+    { "beat": 2 },
+    "| 92", "b, a", "R 4b"
 ]
 

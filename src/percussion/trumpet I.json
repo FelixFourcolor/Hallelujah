@@ -92,5 +92,11 @@
     "| 85", "a^ 2b", "R 4b", "a 2b",
     "| 86", "d^ 2b, fs^ 2b", { "name": "b^ 2b", "instrument": "bell" }, "d^ 2b",
     "| 87", "g^ 2b", { "name": "fs^", "sustain": true }, "e^, e^ 2b., d^",
-    "| 88", "d^"
+    "| 88", "d^",
+    { "sustain": true },
+    "d 1, d 1, fs, a 1, a 1, d^ 2b", { "name": "d^ 2b", "sustain": -1, "sustainDynamic": null },
+    "| 89", "d^, fs^, a^, fs^, d^ 2b", { "name": "d^ 2b", "sustain": -1, "sustainDynamic": null },
+    "| 90", "d^, fs^, a^, fs^, d^ 2b", { "name": "d^ 2b", "sustain": -1, "sustainDynamic": null },
+    "| 91", "d^, fs^ 1, g^ 1, a^, fs^, d^, fs^ 1, g^ 1, a^, fs^ 1, fs^ 1",
+    "| 92", "d^, d^", "R 4b"
 ]

@@ -90,5 +90,10 @@
     "| 85", "fs^ 2b", "R 4b", "fs 2b",
     "| 86", { "name": "fs, d, a", "sustain": true }, "fs", "d^ 2b, a 2b",
     "| 87", "e^ 2b", { "name": "d^", "sustain": true }, "a, a, a 1, a 1, a, a",
-    "| 88", "fs"
+    "| 88", "fs 2b", "R",
+    { "sustain": true }, "fs, d, d", "R", "a",
+    "| 89", "d, d^, fs^, d^, d 2b", { "name": "d 2b", "sustain": -1, "sustainDynamic": null },
+    "| 90", "d, d^, fs^, d^, d 2b", { "name": "d 2b", "sustain": -1, "sustainDynamic": null },
+    "| 91", "d, d^ 1, e^ 1, fs^, d^, d, d^ 1, e^ 1, fs^, d^ 1, d^ 1",
+    "| 92", "d, fs", "R 4b"
 ]
