@@ -128,5 +128,5 @@
     { "beat": 4, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "R 4b", "fs^ 2b",
     "| 93!", { "name": "g^ 6b", "sustain": -1 }, "g^ 3b",
-    "| 94!", "fs^ 4b +6"
+    "| 94!", { "name": "fs^ 4b +6", "sustainDynamic": null }
 ]

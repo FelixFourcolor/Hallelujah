@@ -99,5 +99,5 @@
     { "beat": 4, "sustain": null, "sustainDynamic": [ [ -2, "-1" ], [ 2, 1 ] ] },
     "R 4b", "a 2b",
     "| 93!", "d 6b, d 3b",
-    "| 94!", { "name": "fs 4b +6", "sustain": true }
+    "| 94!", { "name": "fs 4b +6", "sustain": true, "sustainDynamic": null }
 ]

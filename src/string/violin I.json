@@ -127,6 +127,6 @@
     { "beat": 4, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     "R 4b", "a 2b",
     "| 93!", { "name": "b 6b", "sustain": -1 }, "b 3b",
-    "| 94!", "a 4b +6"
+    "| 94!", { "name": "a 4b +6", "sustainDynamic": null }
 ]
 

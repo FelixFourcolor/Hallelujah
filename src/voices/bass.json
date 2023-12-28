@@ -125,8 +125,8 @@
     "fs 1, fs 1, g, d", "R",
     "fs 1, fs 1, g, d", "R",
     "fs 1, fs 1, g, d",
-    { "beat": 4, "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
-    "R 4b", { "name": "d 2b", "dynamic": 1 },
-    "| 93!", "g 6b", { "name": "g 3b", "dynamic": 1 },
-    "| 94!", { "name": "d 4b +6", "sustain": true }
+    { "beat": 4, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "R 4b", { "name": "d 2b", "dynamic": 2 },
+    "| 93!", { "name": "g 6b", "sustain": -1, "sustainDynamic": null }, { "name": "g 3b", "dynamic": 2 },
+    "| 94!", { "name": "d 4b +6", "sustainDynamic": null }
 ]

@@ -121,8 +121,8 @@
     "d^ 1, d^ 1, g^, fs^", "R",
     "d^ 1, d^ 1, g^, fs^", "R",
     "d^ 1, d^ 1, g^, fs^",
-    { "beat": 4, "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
-    "R 4b", { "name": "a 2b", "dynamic": 1 },
-    "| 93!", "b 6b", { "name": "b 3b", "dynamic": 1 },
-    "| 94!", { "name": "a 4b +6", "sustain": true }
+    { "beat": 4, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "R 4b", { "name": "a 2b", "dynamic": 2 },
+    "| 93!", { "name": "b 6b", "sustain": -1, "sustainDynamic": null }, { "name": "b 3b", "dynamic": 2 },
+    "| 94!", { "name": "a 4b +6", "sustainDynamic": null }
 ]
