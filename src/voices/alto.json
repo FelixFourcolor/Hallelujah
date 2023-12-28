@@ -123,8 +123,8 @@
     "a 1, a 1, b, a", "R",
     "a 1, a 1, b, a", "R",
     "a 1, a 1, b, a",
-    { "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
-    { "beat": 4 }, "R 4b", { "name": "fs 2b", "dynamic": 1 },
+    { "beat": 4, "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
+    "R 4b", { "name": "fs 2b", "dynamic": 1 },
     "| 93!", "g 6b", { "name": "g 3b", "dynamic": 1 },
     "| 94!", { "name": "fs 4b +6", "sustain": true }
 ]

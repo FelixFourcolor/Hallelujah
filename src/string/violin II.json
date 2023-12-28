@@ -125,8 +125,8 @@
     "| 91", "g^ 2b, fs^, fs^, fs^ 2b, d^, d^, g^ 2b, fs^, fs^, fs^ 2b, d^, d^",
     { "beat": 2 },
     "| 92", "g^, fs^",
-    { "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
-    { "beat": 4 }, "R 4b", "fs^ 2b",
+    { "beat": 4, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "R 4b", "fs^ 2b",
     "| 93!", { "name": "g^ 6b", "sustain": -1 }, "g^ 3b",
     "| 94!", "fs^ 4b +6"
 ]
