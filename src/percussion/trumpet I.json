@@ -98,5 +98,9 @@
     "| 89", "d^, fs^, a^, fs^, d^ 2b", { "name": "d^ 2b", "sustain": -1, "sustainDynamic": null },
     "| 90", "d^, fs^, a^, fs^, d^ 2b", { "name": "d^ 2b", "sustain": -1, "sustainDynamic": null },
     "| 91", "d^, fs^ 1, g^ 1, a^, fs^, d^, fs^ 1, g^ 1, a^, fs^ 1, fs^ 1",
-    "| 92", "d^, d^", "R 4b"
+    "| 92", "d^, d^",
+    { "sustain": null, "sustainDynamic": [ [ -3, "-1" ], [ 3, 1 ] ] },
+    { "beat": 4 }, "R 4b", { "beat": 6 }, "fs^ 2b",
+    "| 93!", "d^ 6b, d^ 3b -2",
+    "| 94!", { "name": "d^ 4b +4", "sustain": true }
 ]

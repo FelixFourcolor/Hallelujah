@@ -123,6 +123,10 @@
     "| 90", "b 2b, a, a, d^ 2b, a, a, b 2b, a, a, d^ 2b, a, a",
     "| 91", "b 2b, a, a, d^ 2b, a, a, b 2b, a, a, d^ 2b, a, a",
     { "beat": 2 },
-    "| 92", "b, a", "R 4b"
+    "| 92", "b, a",
+    { "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    { "beat": 4 }, "R 4b", { "beat": 6 }, "a 2b",
+    "| 93!", { "name": "b 6b", "sustain": -1 }, "b 3b -2",
+    "| 94!", "a 4b +4"
 ]
 

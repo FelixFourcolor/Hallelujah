@@ -124,5 +124,9 @@
     "fs 1, fs 1, g, d", "R",
     "fs 1, fs 1, g, d", "R",
     "fs 1, fs 1, g, d", "R",
-    "fs 1, fs 1, g, d", "R 4b"
+    "fs 1, fs 1, g, d",
+    { "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
+    { "beat": 4 }, "R 4b", { "beat": 6 }, { "name": "d 2b", "dynamic": 1 },
+    "| 93!", { "name": "g 6b", "sustain": -2 }, { "name": "g 3b -2", "dynamic": 1 },
+    "| 94!", { "name": "d 4b +4", "sustain": true }
 ]
