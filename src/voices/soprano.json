@@ -68,13 +68,13 @@
     "| 54, R 2b", { "name": "a 2b", "sustainDynamic": 2 }, { "name": "a 2b", "sustain": true }, { "name": "a 2b", "dynamic": 2 },
     "| 55", { "name": "a 8b 8b", "sustain": true, "sustainDynamic": 2 },
     "| 57, R 4b", { "name": "d^ 2b", "sustain": true }, { "name": "d^ 2b", "dynamic": 2 },
-    "| 58", { "name": "d^ 8b 8b 2b", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    "| 58", { "name": "d^ 8b 8b 2b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     { "name": "d^ 2b", "sustainDynamic": 2 }, { "name": "e^ 2b", "sustain": true }, { "name": "e^ 2b", "dynamic": 2 },
-    "| 61", { "name": "e^ 8b 8b 4b", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    "| 61", { "name": "e^ 8b 8b 4b", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     { "name": "fs^ 2b", "sustain": true }, { "name": "fs^ 2b", "dynamic": 2 },
-    "| 64", { "name": "fs^ 8b 8b 2b.", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    "| 64", { "name": "fs^ 8b 8b 2b.", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     { "name": "fs^, g^ 2b", "sustain": true }, { "name": "g^ 2b", "dynamic": 2 },
-    "| 67", { "name": "g^ 8b 2b.", "sustainDynamic": [ [ -3, 2 ], [ 3, 1 ] ] },
+    "| 67", { "name": "g^ 8b 2b.", "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
     { "dynamic": 4, "sustainDynamic": 3 },
     { "name": "g^", "dynamic": 3, "sustain": true }, { "name": "fs^", "sustain": true }, { "name": "e^", "dynamic": 3, "sustain": true }, { "name": "fs^", "sustain": true }, { "name": "g^", "dynamic": 3 },
     "| 69", { "name": "e^ 4b", "sustain": true, "sustainDynamic": [ [ "2b", 3 ], [ "2b", 2 ] ] }, "R",
@@ -112,7 +112,7 @@
     "d^ 1, d^ 1, d^, d^", "R",
     "d^ 1, d^ 1, d^, d^",
     { "sustain": -1, "sustainDynamic": [ [ 2, "-1" ], [ -2, 1 ] ] },
-    { "beat": 4 }, "R 4b", { "beat": 6 }, { "name": "d^ 2b", "dynamic": 1 },
-    "| 93!", { "name": "d^ 6b", "sustain": -2 }, { "name": "d^ 3b -2", "dynamic": 1 },
-    "| 94!", { "name": "d^ 4b +4", "sustain": true }
+    { "beat": 4 }, "R 4b", { "name": "d^ 2b", "dynamic": 1 },
+    "| 93!", "d^ 6b", { "name": "d^ 3b", "dynamic": 1 },
+    "| 94!", { "name": "d^ 4b +6", "sustain": true }
 ]
