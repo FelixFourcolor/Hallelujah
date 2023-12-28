@@ -24,7 +24,7 @@ Minecraft Java 1.20.4 to play the pre-built world; 1.19+ if you build from sourc
 
 Optionally:
 
-* Go to Music & Sounds settings and turn down Master Volume to about 60% to 70%, otherwise it might be a bit too loud.
+* Go to Music & Sounds settings and turn down Master Volume to about 50% to 60%, otherwise it might be a bit too loud.
 
 * After entering the world, reduce the redstone tick rate to about 18 or 19 (this requires version 1.20.3+), otherwise it might be a bit too fast. The tick rate that I prefer and used for the YouTube video is 18.5.
 
