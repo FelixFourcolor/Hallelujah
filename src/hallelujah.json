@@ -24,7 +24,6 @@
             { "notes": "voices/bass.json", "instrument": "guitar" },
             { "notes": "voices/soprano.json", "instrument": "bit" }
         ],
-
         [
             { "notes": "string/bass.json", "instrument": "guitar" },
             { },
