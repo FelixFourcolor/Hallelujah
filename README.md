@@ -20,7 +20,7 @@ Tranposed down 3 semitones to better fit noteblock's ranges. However, a few note
 
 ## Play requirements
 
-Minecraft Java 1.20.4 to play the pre-built world; 1.19+ if you build from source.
+Minecraft Java 1.20 to play the pre-built world; 1.19+ if you build from source.
 
 Optionally:
 
