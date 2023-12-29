@@ -2,6 +2,8 @@
 
 "Hallelujah" in Handel's Messiah, arranged for Minecraft's noteblocks.
 
+Recording: <https://youtu.be/C0GwhZqqDCA>
+
 ## Arrangement
 
 Instrumentation:
