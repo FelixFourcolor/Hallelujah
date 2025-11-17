@@ -45,16 +45,14 @@ To obtain the folder, you may clone the repo or use third-party tools such as [D
 
 ### Overview of the build process
 
-The structure is auto-generated using [noteblock-generator](https://pypi.org/project/noteblock-generator/). The program takes [src](https://github.com/FelixFourcolor/Hallelujah/tree/main/src) which defines the composition, and generates the structure inside an existing Minecraft world.
+The structure is auto-generated using [noteblock-generator](https://pypi.org/project/noteblock-generator/0.2.1). The program takes [src](https://github.com/FelixFourcolor/Hallelujah/tree/main/src) which defines the composition, and generates the structure inside an existing Minecraft world.
 
 ### Step-by-step guide
 
-1. Install the lastest version of [noteblock-generator](https://pypi.org/project/noteblock-generator/):
-
+1. Install noteblock-generator 0.2.1 (must be this exact version):
     ```sh
-    pip install --upgrade noteblock-generator
+    pip install "noteblock-generator==0.2.1"
     ```
-
     Configure your PATH so that `noteblock-generator` is executable on the command line.
 
 2. Obtain [src](https://github.com/FelixFourcolor/Hallelujah/tree/main/src). You may clone the repo or download just that folder.
@@ -67,4 +65,4 @@ The structure is auto-generated using [noteblock-generator](https://pypi.org/pro
     noteblock-generator [path to src] [path to minecraft world]
     ```
 
-    See [noteblock-generator](https://pypi.org/project/noteblock-generator/) for more build options.
+    See [noteblock-generator](https://pypi.org/project/noteblock-generator/0.2.1) for more build options.
